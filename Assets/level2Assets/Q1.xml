@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Questions>
+    <Question>
+      <Info>yes</Info>
+      <Answers>
+        <Answer>
+          <Info>no</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>nine</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>50</Timer>
+      <Type>Single</Type>
+      <AddScore>0</AddScore>
+    </Question>
+  </Questions>
+</Data>

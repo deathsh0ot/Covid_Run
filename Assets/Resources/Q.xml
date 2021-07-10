@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Questions>
+    <Question>
+      <Info>What kind of cell memorises the virus?</Info>
+      <Answers>
+        <Answer>
+          <Info>Memory cells</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>TCells</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>White blood cells</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>25</Timer>
+      <Type>Single</Type>
+      <AddScore>100</AddScore>
+    </Question>
+    <Question>
+      <Info>Which kind of vaccine uses booster shots?</Info>
+      <Answers>
+        <Answer>
+          <Info>Viral vector vaccines</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Protein subunit Vaccines</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Whole virus vaccines</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Nucleic acid vaccines</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>35</Timer>
+      <Type>Single</Type>
+      <AddScore>150</AddScore>
+    </Question>
+    <Question>
+      <Info>Which one of these is a Nucleic acid Vaccine?</Info>
+      <Answers>
+        <Answer>
+          <Info>mRNA</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Protein subunit vaccine</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>20</Timer>
+      <Type>Single</Type>
+      <AddScore>50</AddScore>
+    </Question>
+    <Question>
+      <Info>Which vaccines do not use antigens ?</Info>
+      <Answers>
+        <Answer>
+          <Info>mRNA</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Whole virus vaccines</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Viral vector vaccines</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Protein subunit vaccines</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>40</Timer>
+      <Type>Multi</Type>
+      <AddScore>200</AddScore>
+    </Question>
+    <Question>
+      <Info>Viral vector vaccines inject ?</Info>
+      <Answers>
+        <Answer>
+          <Info>Fragments of the virus</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Fragments of genetic code</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Antibodies</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>25</Timer>
+      <Type>Single</Type>
+      <AddScore>150</AddScore>
+    </Question>
+    <Question>
+      <Info>A gene gun is used</Info>
+      <Answers>
+        <Answer>
+          <Info>in mRNA vaccines</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>to inject antibodies</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>to inject fragments of virus DNA</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>30</Timer>
+      <Type>Multi</Type>
+      <AddScore>150</AddScore>
+    </Question>
+    <Question>
+      <Info>Whole virus vaccines</Info>
+      <Answers>
+        <Answer>
+          <Info>often include chemical agents</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>don't use antigens</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>weaken or disable a virus and inject it</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>uses viruses as they are</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>30</Timer>
+      <Type>Single</Type>
+      <AddScore>100</AddScore>
+    </Question>
+    <Question>
+      <Info>Viral vector vaccines</Info>
+      <Answers>
+        <Answer>
+          <Info>are complex to develop</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>use fragments of the virus</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>inject DNA into a harmless virus</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>40</Timer>
+      <Type>Multi</Type>
+      <AddScore>250</AddScore>
+    </Question>
+    <Question>
+      <Info>What cells attack the virus?</Info>
+      <Answers>
+        <Answer>
+          <Info>Antibodies</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>TCells</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Red blood cells</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>White blood cells</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>25</Timer>
+      <Type>Multi</Type>
+      <AddScore>100</AddScore>
+    </Question>
+    <Question>
+      <Info>Nucleic acid vaccines</Info>
+      <Answers>
+        <Answer>
+          <Info>are complex to develop</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>are an old technology</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>quick and cheap to develop</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>true</UseTimer>
+      <Timer>45</Timer>
+      <Type>Single</Type>
+      <AddScore>200</AddScore>
+    </Question>
+  </Questions>
+</Data>
